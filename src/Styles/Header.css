@@ -1,0 +1,32 @@
+.navigation-bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+.navigation-bar li{
+    margin: 0px 20px;
+
+}
+.navigation-bar a{
+    color: white;
+    text-decoration: none;
+    font-family: ;
+}
+.mobile-navigation{
+
+    list-style: none;
+}
+.mobile-navigation li{
+    margin-top : 20px;
+
+}
+.mobile-navigation a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: ;
+}
+.active{
+    color : goldenrod !important;
+    font-weight : bold !important;
+}
